@@ -105,7 +105,7 @@ body {
 
 .lower-third-button {
     width: 100%;
-    height: 200px;
+    height: 230px;
     margin-bottom: 10px;
     border-color: var(--obs-button-border);
     background-color: var(--obs-button-background);
@@ -124,6 +124,25 @@ body {
 
 body::-webkit-scrollbar {
     display: none;
+}
+
+/* Directory Buttons */
+.sub-directory-button {
+    width: 100%;
+    height: 40px;
+    margin-bottom: 10px;
+    border-color: var(--obs-button-border);
+    background-color: var(--obs-button-background);
+}
+
+.sub-directory-button p {
+    font-size: 16px;
+}
+
+.sub-directory-button:hover {
+    border-color: var(--obs-button-hover-border);
+    background-color: var(--obs-button-hover-background);
+    transition: 0.4s;
 }
 
 /* General animation classes */

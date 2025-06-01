@@ -45,7 +45,9 @@
                 
                 if(isHidden === true) { return; }
 
-                imageElement.src = './lower-thirds/' + image; //this is making sure it is the src
+                //imageElement.src = './lower-thirds/' + image; //this is making sure it is the src
+                imageElement.src = image;
+                console.log(image)
                 imageElement.style.display = 'block'; // Ensure the image is visible
                 // Run the animation
                 imageElement.classList.add('animating', selectedAnimation);
