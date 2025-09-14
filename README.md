@@ -3,7 +3,7 @@
 
 ![alt text][logo]
 
-[logo]: https://github.com/Nitsuguaaa/Lower-thirds-OBS-Plugin/blob/master/lower-thirds-example.png "Plugin Preview"
+[logo]: https://github.com/Nitsuguaaa/Live-Overlay-Presenter/blob/master/live-overlay-showcase.png "Plugin Preview"
 I made this OBS Plugin because OBS Studio does not full on support image presentations. Usually if you want an image presentation, you would need to add an image slideshow, which is usually fine but I want to see what the **images are, add custom animation, update real time, and navigate anywhere instead of just what's the next slide and the previous one.**
 This plugin solves that problem by creating a local PHP server that reads all your images in `lower-thirds` and simulating a presentation. This plugin is used if you have a corresponding lower thirds (transparent background images) **in addition** to your 
 actual presentation.
