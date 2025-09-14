@@ -30,7 +30,7 @@ actual presentation.
 
 ## FAQ
 **Overlay is not showing in the screen**
-If the browser source for the overlay has the "Refresh browser when scene becomes active" ticked then try changing the scene to a different one to load the overlay.
+- If the browser source for the overlay has the "Refresh browser when scene becomes active" ticked then try changing the scene to a different one to load the overlay.
 
 ## To-Do
 The current version needs to be rewritten as a whole. What's being used right now is more of a proof of concept rather than production use so use the plugin at your own risk.
