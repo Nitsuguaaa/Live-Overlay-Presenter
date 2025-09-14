@@ -1,5 +1,5 @@
-# Lower Thirds Plugin for OBS Studio
-**A Powerpoint-like presentation slides for your images!**
+# Live Overlay Presenter Plugin for OBS Studio
+**A Powerpoint-like presentation slides for your overlays!**
 
 ![alt text][logo]
 
