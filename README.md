@@ -27,6 +27,11 @@ actual presentation.
 6. Run `start-php-server.bat`
 7. Either Restart OBS Studio or click retry in the custom dock (if shown, if not click `Docks` -> `your-dock-name`) and change scene to reload the source
 8. Enjoy!
+
+## FAQ
+**Overlay is not showing in the screen**
+If the browser source for the overlay has the "Refresh browser when scene becomes active" ticked then try changing the scene to a different one to load the overlay.
+
 ## To-Do
 The current version needs to be rewritten as a whole. What's being used right now is more of a proof of concept rather than production use so use the plugin at your own risk.
 - [ ] Separatation of concerns (not just control-panel.php and index.php)
